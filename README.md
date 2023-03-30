@@ -63,11 +63,11 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
-### Server Output
+### Server Output:
 
 ![Server Output](img/Serverio.jpg)
 
-### Client Output
+### Client Output:
 
 ![Client Output](img/clientio.jpg)
 
