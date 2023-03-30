@@ -41,8 +41,8 @@ content='''
 <h2>1.Django</h2>
 <h2>2. MEAN Stack</h2>
 <h2>3. React </h2>
-<h2>2. MEARN</h2>
-<h2>2. Spring Framework</h2>
+<h2>4. MEARN</h2>
+<h2>5. Spring Framework</h2>
 </body>
 </html>
 '''
